@@ -10,6 +10,7 @@ This is an app that uses Cheerio to scrape the New York Times US section and pul
 * [express](https://www.npmjs.com/package/express)
 * [MongoDB](https://www.mongodb.com/)
 * [Mongoose](http://mongoosejs.com/)
+* [morgan](https://www.npmjs.com/package/morgan)
 * [Handlebars.js](https://www.npmjs.com/package/handlebars)
 * [Cheerio](https://www.npmjs.com/package/cheerio)
 * [Request-Promise](https://www.npmjs.com/package/request-promise)
