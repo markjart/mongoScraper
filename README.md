@@ -1,6 +1,7 @@
-# **MongoScraper**
+# MongoScraper
+## New York Times US Section Scraper
 
-### To view the deployed version, _**[click here!]()**_
+### To view the deployed version, _**[click here!](https://sleepy-reef-26857.herokuapp.com/)**_
 
 This is an app that uses Cheerio to scrape the New York Times US section and pulls the 20 most recent articles.  You can save or delete the articles that are scraped.  You can click on the images or the title to take you to the corresponding article, or click the 'Save Article' button to save the article.  Once an article is saved, you have the option to add/remove your own notes to the articles.  You can type in a note title and body, and save notes specific to that article.  You can also delete notes that are no longer needed by clicking on the 'X'.
 
